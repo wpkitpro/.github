@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to the <a href="http://gikwp.com/">Gik</a>!</h1><br>
+<h1 align="center">Build Your Website with WpKit</h1><br>
 
 <p align="center">
-  We make it easy to build maintain WordPress websites.
+  Unleash Creative Possibilities
 </p>
